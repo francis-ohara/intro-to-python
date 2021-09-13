@@ -1,4 +1,4 @@
-#Script for counting number of words and non-whitespace characters in text files.
+<h1>Script for counting number of words and non-whitespace characters in text files.</h1>
 
 
 
