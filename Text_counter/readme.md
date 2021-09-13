@@ -1,3 +1,5 @@
+Script for counting number of words and non-whitespace characters in text files.
+
 Word count from word processor: money.txt
 
 ![Screenshot 2021-09-13 000206](https://user-images.githubusercontent.com/54600205/133007066-807a555f-dee7-488e-afe4-b18e439000f9.png)
