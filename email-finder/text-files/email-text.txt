@@ -1,0 +1,6 @@
+Hello world,
+
+.. is an email. It is pretty fine ya!
+.. is another email. It is pretty cool ya!
+.. is his email. It is pretty wild ya!
+... is
