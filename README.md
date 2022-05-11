@@ -1,2 +1,2 @@
 # intro-to-python
-Repository for my beginner python programming projects.
+Contains various beginner python programming projects.
